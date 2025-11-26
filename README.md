@@ -1,12 +1,12 @@
-<h1 align="left">Hello! Welcome to my GitHub!</h1>
+<h1 align="left">System.out.println("Olá! Seja bem-vindo ao meu GitHub!");</h1>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">- Brazilian<br>- Computer Technician<br>- Student in Systems Development Technician</p>
+<p align="left">- Técnico em Informática<br>- Estudante Técnico em Desenvolvimento de Sistemas</p>
 
 ###
 
