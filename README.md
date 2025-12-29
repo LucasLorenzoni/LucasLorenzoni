@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Técnico em Informática<br>- Estudante Técnico em Desenvolvimento de Sistemas</p>
+<p align="left">- Técnico em Informática<br> </p>
 
 ###
 
